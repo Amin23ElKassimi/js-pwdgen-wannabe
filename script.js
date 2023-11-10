@@ -15,5 +15,5 @@ const coloreUtente = ( prompt ('Inserici il tuo colore preferito' ));
 document.getElementById('output').innerHTML = nomeUtente +' '+ cognomeUtente +' '+ coloreUtente +'21';
 
 
-
+// 
 
